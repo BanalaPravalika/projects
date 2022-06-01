@@ -1,0 +1,66 @@
+*{
+	font-family: Montserrat;
+}
+
+
+h1{
+	
+	text-align:center;
+	background-color: black;
+	color: white;
+	padding: 30px;
+}
+hr{
+    border: 2px solid black;
+    width: 50%;
+}
+p{
+   
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+}
+
+img{
+	
+  border-radius: 8px;
+  width: 90%;
+  margin-top: 35px;
+  margin-left: 100px;
+   max-width: 100%;
+  height: auto;
+}
+
+header{
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
+ul{
+	list-style: none;
+}
+li{
+display: inline;
+margin: 100px;
+
+
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+li a{  
+	color: red;
+    
+}
+
+Footer{
+	background-color: black;
+	color: white;
+	padding: 3px;
+	text-align: center;
+}
